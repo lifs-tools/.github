@@ -1,8 +1,8 @@
 # LIFS Tools Overview
 LIFS Tools Overview
 
-- **[Goslin](https://github.com/lifs-tools/goslin)**
-- **[LipidCreator](https://github.com/lifs-tools/lipidcreator)**
+- **[Goslin](https://github.com/lifs-tools/goslin)** - Libraries to handle lipid shorthand nomenclature parsing and normalization.
+- **[LipidCreator](https://github.com/lifs-tools/lipidcreator)** - A [Skyline](https://skyline.ms) plugin for lipid assay generation.
 - **[jmzTab-m](https://github.com/lifs-tools/jmzTab-m)** - Java reference implementation for the [HUPO-PSI and MSI standard format mzTab for metabolomics - mzTab-M 2.0](https://github.com/HUPO-PSI/mzTab)
 
 ## Asking for Access to Source Code
