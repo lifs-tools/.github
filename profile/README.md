@@ -1,5 +1,7 @@
 # LIFS Tools Overview
 
+[![Lipidomics Informatics for Life Science Website](https://user-images.githubusercontent.com/3309580/166491804-3e5c8652-1824-4c52-92a5-9acffa14bb12.png)](https://lifs-tools.org/)
+
 [Lipidomics Informatics for Life Science Website](https://lifs-tools.org/)
 
 ## LIFS Tools Projects Overview
