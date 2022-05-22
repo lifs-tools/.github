@@ -1,5 +1,5 @@
 # LIFS Tools Overview
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md) 
 
 [![Lipidomics Informatics for Life Science Website](https://user-images.githubusercontent.com/3309580/166491804-3e5c8652-1824-4c52-92a5-9acffa14bb12.png)](https://lifs-tools.org/)
 
