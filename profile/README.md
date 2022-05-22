@@ -13,7 +13,7 @@
 
 ## Code of Conduct
 We openly invite contributions from any interested party and try to actively encourage and foster collaboration.
-Please note that we adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to create a welcoming, positive and productive environment for our community. 
+Please note that we adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to create and maintain a welcoming, positive and productive environment for our community. 
 
 ## Asking for Access to Source Code
 Some of our source code repositories may not be public at the moment. If you would like to get access to the following projects, please contact us at https://lifs-tools.org/support.
