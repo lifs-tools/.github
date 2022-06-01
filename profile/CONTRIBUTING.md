@@ -23,13 +23,6 @@ To get started with open source contributions, please check the following resour
 - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
-
-## Getting started
-
-To navigate our codebase with confidence, see [the introduction to working in the docs repository](/contributing/working-in-docs-repository.md) :confetti_ball:. For more information on how we write our markdown files, see [the GitHub Markdown reference](contributing/content-markup-reference.md).
-
-Check to see what [types of contributions](/contributing/types-of-contributions.md) we accept before making changes. Some of them don't even require writing a single line of code :sparkles:.
-
 ### Issues
 
 #### Create a new issue
