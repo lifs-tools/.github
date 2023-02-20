@@ -10,6 +10,7 @@
 - **[Goslin](https://github.com/lifs-tools/goslin)** - Libraries to handle lipid shorthand nomenclature parsing and normalization.
 - **[LipidCreator](https://github.com/lifs-tools/lipidcreator)** - A [Skyline](https://skyline.ms) plugin for lipid assay generation.
 - **[jmzTab-m](https://github.com/lifs-tools/jmzTab-m)** - Java reference implementation for the [HUPO-PSI and MSI standard format mzTab for metabolomics - mzTab-M 2.0](https://github.com/HUPO-PSI/mzTab)
+- **[Awesome Lipidomics](https://github.com/lifs-tools/awesome-lipidomics)** - An *[awesome](https://github.com/sindresorhus/awesome)* list / table of Lipidomics tools, resources and databases.
 
 ## Code of Conduct
 We openly invite contributions from any interested party and try to actively encourage and foster collaboration.
