@@ -7,9 +7,11 @@
 
 ## LIFS Tools Projects Overview
 
+- **[LipidCreator](https://github.com/lifs-tools/lipidcreator)** - A [Skyline](https://skyline.ms) plugin for lipid assay generation.
+- **[LipidXplorer](https://github.com/lifs-tools/lipidxplorer)** - Analyze shotgun lipidomics data.
 - **[LipidSpace](https://github.com/lifs-tools/lipidspace)** - Visualize, compare and analyze lipidomes.
 - **[Goslin](https://github.com/lifs-tools/goslin)** - Libraries to handle lipid shorthand nomenclature parsing and normalization.
-- **[LipidCreator](https://github.com/lifs-tools/lipidcreator)** - A [Skyline](https://skyline.ms) plugin for lipid assay generation.
+- **[Goslin Webapp](https://github.com/lifs-tools/goslin-webapp)** - Webapplication providing normalization and mapping of lipid names to lipid databases.
 - **[jmzTab-m](https://github.com/lifs-tools/jmzTab-m)** - Java reference implementation for the [HUPO-PSI and MSI standard format mzTab for metabolomics - mzTab-M 2.0](https://github.com/HUPO-PSI/mzTab)
 - **[Awesome Lipidomics](https://github.com/lifs-tools/awesome-lipidomics)** - An *[awesome](https://github.com/sindresorhus/awesome)* list / table of Lipidomics tools, resources and databases.
 
